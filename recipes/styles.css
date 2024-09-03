@@ -1,0 +1,26 @@
+* {
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    color: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_description {
+    font-size: smaller;
+    text-align: center;
+}
+
+.food_description {
+    font-size: 40px;    
+}

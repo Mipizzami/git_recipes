@@ -1,0 +1,18 @@
+* {
+    background-color: red
+}
+
+#header {
+    color: yellow;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    font-weight: bolder;
+}
+
+.food {
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
